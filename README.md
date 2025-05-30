@@ -1,4 +1,7 @@
 # Fitting Poisson  distribution
+## NAME: KALPANAA BABU T M
+## REG NO: 212224230112
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
